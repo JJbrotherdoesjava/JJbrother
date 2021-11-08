@@ -1,2 +1,4 @@
-# Sodaware
-bc soda removed my dev and acces for no reason
+# JJhack
+
+
+This is JJhack sub to JJbrother on youtube!
